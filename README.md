@@ -152,16 +152,15 @@ PowerBI-CreditCard-Dashboard
 
 ### Customer Dashboard
 
-![Customer Dashboard](Dashboard%20Images/Customer%20Dashboard.png)
+![Customer Dashboard](Dashboard%20Images/Customer%20Dashboard.png.png)
 
 ### Transaction Dashboard
 
-![Transaction Dashboard](Dashboard%20Images/Transaction%20Dashboard.png)
+![Transaction Dashboard](Dashboard%20Images/Transaction%20Dashboard.png.png)
 
 ### Insights Dashboard
 
-![Insights Dashboard](Dashboard%20Images/Insights%20Dashboard.png)
-
+![Insights Dashboard](Dashboard%20Images/Insights%20Dashboard.png.png)
 ---
 
 ## 🚀 Skills Demonstrated
